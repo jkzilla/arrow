@@ -27,4 +27,4 @@ workflows:
     example-workflow:
       jobs:
         - node/run:
-            npm-run: test 
+            npm-run: test
